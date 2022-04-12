@@ -1,1 +1,7 @@
-# WGU-C188
+# Introduction
+In this assessment, you will review a requirements document and then propose a software solution. Your submission will showcase what you’ve learned in the course through the creation of a design and test plan, which is a deliverable for the waterfall methodology. Review the scenario, requirements, and rubric below for additional guidance as you complete this assessment.
+
+## Scenario
+You are a member of a software development team for a project, which includes business analysts, solution analysts, developers, quality assurance professionals, and a project manager, among other team members. You have been tasked with completing a solution proposal and design and test plan with the help of your team to support the software development process. The American Video Game Company has provided a high-level requirements document to aid you in identifying an appropriate solution.
+
+The project is to implement a customer relationship management (CRM) system for the sales force of a medium-sized company. The initial requirements document has been provided for you to use in determining a solution. You may choose to implement a customizable/commercial off-the-shelf (COTS) system, or you may decide to have the system custom built. When making this decision, ensure all requirements are considered and can be implemented if choosing a COTS system. If you decide to build the system, consider the additional resources that will be needed. Review the attached “CRM Requirements” document provided with the assessment to gain an overall understanding of the system the American Video Game Company is looking for.
